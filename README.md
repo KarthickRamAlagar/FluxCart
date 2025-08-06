@@ -12,6 +12,13 @@
   <img src="https://img.shields.io/badge/-Stripe_Payments-black?style=for-the-badge&logo=stripe&logoColor=white&color=635BFF" alt="Stripe" />
 </div>
 
+
+---
+
+### 🌐 **Live Demo**
+
+- 🛍 **Web App:** [FluxCart Live](https://fluxcart-xi.vercel.app/)   
+
 ---
 
 ## 📋 Table of Contents

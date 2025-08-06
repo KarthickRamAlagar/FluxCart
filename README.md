@@ -1,5 +1,3 @@
-
-
 # 🛒 **FluxCart — Modern E-Commerce Platform**
 
 <p align="center">
@@ -46,26 +44,26 @@ FluxCart follows a **headless e-commerce architecture**. Product data is managed
 
 #### ✅ **Key Highlights**
 
-* **Next.js App Router + SSR + ISR** for performance & SEO
-* **Stripe Payment Gateway** with Checkout sessions
-* **Sanity CMS** for real-time content management
-* **React Context API** for global cart state
-* **TailwindCSS** for responsive UI
-* **Animations** for user engagement using `canvas-confetti`
+- **Next.js App Router + SSR + ISR** for performance & SEO
+- **Stripe Payment Gateway** with Checkout sessions
+- **Sanity CMS** for real-time content management
+- **React Context API** for global cart state
+- **TailwindCSS** for responsive UI
+- **Animations** for user engagement using `canvas-confetti`
 
 ---
 
 ### 🔧 **Tech Stack**
 
-* **Frontend:** Next.js 15, React 19
-* **Styling:** TailwindCSS, Tailwind Merge
-* **CMS:** Sanity.io
-* **Payments:** Stripe
-* **State Management:** Context API
-* **Icons & UI:** Radix UI, Lucide React, React Icons
-* **Notifications:** react-hot-toast
-* **Animations:** canvas-confetti
-* **Build Tool:** Turbopack (Next.js 15 default)
+- **Frontend:** Next.js 15, React 19
+- **Styling:** TailwindCSS, Tailwind Merge
+- **CMS:** Sanity.io
+- **Payments:** Stripe
+- **State Management:** Context API
+- **Icons & UI:** Radix UI, Lucide React, React Icons
+- **Notifications:** react-hot-toast
+- **Animations:** canvas-confetti
+- **Build Tool:** Turbopack (Next.js 15 default)
 
 ---
 
@@ -80,10 +78,10 @@ FluxCart follows a **headless e-commerce architecture**. Product data is managed
 
 ---
 
-### 🖼 **Screenshots**
+### 🖼 **Take An Insights**
 
-| **Homepage**                                  | **Product Details**                                 | **Cart**                                      |
-| --------------------------------------------- | --------------------------------------------------- | --------------------------------------------- |
+| **Homepage**                     | **Product Details**                         | **Cart**                       |
+| -------------------------------- | ------------------------------------------- | ------------------------------ |
 | ![Home](./public/HomeScreen.png) | ![Product](./public/ProductDetailsPage.png) | ![Cart](./public/cartPage.png) |
 
 ---
@@ -118,9 +116,9 @@ fluxcart/
 
 #### ✅ Prerequisites
 
-* Node.js ≥ 18
-* Stripe Account
-* Sanity Project Setup
+- Node.js ≥ 18
+- Stripe Account
+- Sanity Project Setup
 
 ---
 
@@ -176,9 +174,9 @@ sanity init
 
 1. Create a [Stripe Account](https://stripe.com).
 2. Get API keys:
+   - `STRIPE_SECRET_KEY`
+   - `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY`
 
-   * `STRIPE_SECRET_KEY`
-   * `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY`
 3. Add them to `.env.local`:
 
 ```
@@ -210,12 +208,10 @@ MIT License
 
 ## 🙏 **Acknowledgements**
 
-* [Next.js](https://nextjs.org)
-* [Sanity](https://sanity.io)
-* [Stripe](https://stripe.com)
-* [TailwindCSS](https://tailwindcss.com)
-* [React Icons](https://react-icons.github.io/react-icons)
+- [Next.js](https://nextjs.org)
+- [Sanity](https://sanity.io)
+- [Stripe](https://stripe.com)
+- [TailwindCSS](https://tailwindcss.com)
+- [React Icons](https://react-icons.github.io/react-icons)
 
 ---
-
-
